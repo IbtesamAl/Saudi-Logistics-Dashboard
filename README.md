@@ -6,6 +6,8 @@ Saudi Logistics Dashboard is a data analytics project that uses Saudi open data 
 
 The project uses PostgreSQL to prepare, store, and analyze the data, and Power BI to visualize the results through an interactive dashboard.
 
+![Saudi Logistics Dashboard](Documentation/Saudi_Logistics_Dashboard.png)
+
 ## Objectives
 
 - Analyze import and export activity over time.
@@ -127,6 +129,13 @@ The dashboard includes key indicators and visualizations such as:
 - Total Imports and Total Exports by Year-Quarter
 - Quarterly Import Growth
 - Quarterly Export Growth
+
+## Project Files
+
+- [Power BI Dashboard](PowerBI/Saudi%20Logistics%20Dashboard.pbix)
+- [Data](Data/)
+- [SQL Scripts](SQL/)
+- [Documentation](Documentation/)
 
 ## Tools and Technologies
 
