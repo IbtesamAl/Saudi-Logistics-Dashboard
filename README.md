@@ -29,12 +29,12 @@ The project uses open data published by the Zakat, Tax and Customs Authority (ZA
 
 The analysis covers the period from Q1 2024 to Q2 2025:
 
-- 2024: Q1, Q2, Q3, Q4
-- 2025: Q1, Q2
+2024: Q1, Q2, Q3, Q4
+2025: Q1, Q2
 
-This six-quarter period was selected to maintain a consistent time range across imports, exports, and port traffic data.
+This six-quarter period was selected as the project's analysis scope to provide a focused and comparable quarterly analysis across imports, exports, and port traffic data.
 
-Data from 2023 was excluded because it was published using a different structure, while the 2024–2025 data provided a more consistent structure for data preparation and comparison.
+Data from 2023 was excluded because its structure differed from the datasets selected for the project, which would have affected consistency during data preparation and comparison.
 
 ## Data Preparation
 
