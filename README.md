@@ -8,7 +8,7 @@ The project uses PostgreSQL to prepare, store, and analyze the data, and Power B
 
 ## Dashboard Preview
 
-![Saudi Logistics Dashboard](Documentation/Saudi_Logistics_Dashboard.PNG)
+![Saudi Logistics Dashboard](Documentation/Saudi_Logistics_Dashboard.jpeg)
 
 
 ## Objectives
@@ -160,12 +160,12 @@ Insights
 
 ## Key Insights
 
-- Total imports reached approximately SAR 1.02 trillion, compared with SAR 353.81 billion in total exports during the analyzed period.
-- The total import value exceeded the total export value, while total import net weight was also higher than total export net weight during the analyzed period.
-- China was the leading import partner, while the United Arab Emirates ranked first among export destinations in the dashboard.
+- Total imports were higher than total exports during the analyzed period, reaching SAR 1,019.32 billion in imports and SAR 353.81 billion in exports.
+- China was the top country for imports, while the UAE was the top destination for exports.
 - Import activity included approximately 166K transactions, compared with 56K export transactions.
 - Both imports and exports declined in Q1 2025 before recovering in Q2 2025.
-- Export growth showed a stronger rebound in Q2 2025, reaching approximately 9.99%, while import growth reached approximately 0.96%.
+- Import and export growth changed from quarter to quarter. Exports grew the most in Q3 2024 (10.52%), while imports grew the most in Q4 2024 (7.31%).
+- The number of port permits stayed within a similar range across the six quarters, with some changes over time.
 
 ## Project Files
 
